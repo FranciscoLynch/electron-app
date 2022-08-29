@@ -1,1 +1,5 @@
-# electron-app
+# electron-app 
+
+## npm i 
+
+## npm start
