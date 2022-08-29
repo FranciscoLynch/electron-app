@@ -1,0 +1,23 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoLynch/electron-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoLynch/electron-app/issues"
+  },
+  "homepage": "https://github.com/FranciscoLynch/electron-app#readme",
+  "dependencies": {
+    "electron": "^20.1.0"
+  }
+}
